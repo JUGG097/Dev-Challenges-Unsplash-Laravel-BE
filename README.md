@@ -1,4 +1,4 @@
-# Unsplash Express Backend Project (The backend for the Unsplash Website deployed [here](https://unsplash-adeoluwa.netlify.app/))
+# Unsplash Laravel Backend Project (The backend for the Unsplash Website deployed [here](https://unsplash-adeoluwa.netlify.app/))
 
 This project was developed using `PHP` v "^8.0.2" and `Laravel` v "^9.11" libraries.
 
